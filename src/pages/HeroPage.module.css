@@ -1,0 +1,8 @@
+.hero_page h1, .hero_page h2, .hero_page h3, .hero_page p {
+    color: white;
+}
+
+.imgHero {
+    height: 20%;
+    width: 20%;
+}

@@ -1,0 +1,24 @@
+.header_navBar
+{
+    background-color: black ;
+    opacity: 1;
+
+    z-index: 7;
+}
+.header {
+    z-index: 8;
+    width: 98%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 1%;
+    position: relative;
+
+}
+
+р1 {
+    position: fixed;
+}
+
+/*.header ul{*/
+   /*opacity: 0;*/
+/*}*/
